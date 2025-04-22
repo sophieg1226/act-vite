@@ -1,0 +1,10 @@
+{
+  "name": "act-vite",
+  "version": "0.1.0",
+  "description": "A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}

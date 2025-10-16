@@ -5,3 +5,4 @@ __pycache__/
 .env
 .cache/
 *.tmp
+.pytest_cache/
